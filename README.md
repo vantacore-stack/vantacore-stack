@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm <b>VantaCore.ID</b></h1>
-<h3 align="center">Building the future of Web3 — one line of code at a time.</h3>
+<h3 align="center">Building the future of Web3 one line of code at a time.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Blockchain+Developer;+Web3+Builder;+DeFi+Explorer;+NFT+Enthusiast" alt="typing animation" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 I'm on a mission to explore and contribute to the decentralized web. Passionate about **smart contracts**, **DApps**, and the evolution of **DeFi, NFTs, and DAOs** in 2025 and beyond.  
-Currently building with Solidity, Hardhat, and React — turning ideas into trustless systems.
+Currently building with Solidity, Hardhat, and React turning ideas into trustless systems.
 
 ### 💡 Focus Areas
 - ✅ Smart Contracts (Solidity, Vyper)
